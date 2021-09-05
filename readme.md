@@ -1,5 +1,5 @@
 <p align="center">
-<img width="300" height="140" alt="Vibranium" src="https://github.com/kelvinkamau/Vibranium/blob/master/src/images/vibranium.png">
+<img width="300" height="140" alt="accelerateplus" src="https://github.com/kelvinkamau/Vibranium/blob/master/src/images/vibranium.png">
 </p>
 
 # Project Vibranium 🔥
@@ -12,14 +12,6 @@ This awesome Progressive Web App was created for Developer Student Clubs in Sub 
 ![](https://img.shields.io/github/issues/kelvinkamau/Vibranium.svg)
 ![](https://img.shields.io/maintenance/yes/2019.svg)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/9ec27af46e31459f9c11a4c1f5ff6f71)](https://www.codacy.com/app/kamaucodes/Vibranium?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=kelvinkamau/Vibranium&amp;utm_campaign=Badge_Grade)
-
-| Name | Source Code| Demo |
-| --- | --- | --- |
-| Dark Theme | [GitHub](https://github.com/kelvinkamau/vibranium-dark) | [Preview](https://devclub-kisii.firebaseapp.com) |
-|Light Theme | [GitHub](https://github.com/kelvinkamau/Vibranium) | [Preview](https://kelvinkamau.github.io/Vibranium) |
-
-## Creators 👨‍💻
-* [DSC Sub Saharan Africa Leads](https://github.com/DSCLEADSAfrica)
 
 
 ## Usage 🛠
@@ -38,7 +30,7 @@ This awesome Progressive Web App was created for Developer Student Clubs in Sub 
 * Install Node.js (v8.9.4 or above)
 * launch command prompt/terminal 
 * ```cd documents```
-* ```git clone https://github.com/kelvinkamau/Vibranium```
+* ```git clone https://github.coma/accelerateplus/accelerateplus```
 * ```cd Vibranium```
 * Install project dependencies: ```npm install or yarn```
 * Install Firebase CLI: ```npm i -g firebase-tools```or  ```yarn global add firebase-tools```
@@ -60,67 +52,10 @@ This awesome Progressive Web App was created for Developer Student Clubs in Sub 
 ## Updating
 Here is a git workflow for updating your fork (or downloaded copy) to the latest version:
 ```git
-git remote add upstream https://github.com/kelvinkamau/Vibranium.git
+git remote add upstream https://github.com/accelerateplus/accelerateplus.git
 git fetch upstream
 git merge upstream/Vibranium
 # resolve the merge conflicts in your editor
 git add . -u
 git commit -m 'Updated to the latest version'
 ```
-
-## Contributing
-Project Vibranium is an open source software project and I encourage developers to contribute patches and code for us to include in the main package of Project Vibranium. All contributions will be fully credited.
-
-## Using GitHub Issues
-* Feel free to use GitHub issues for questions, bug reports, and feature requests
-* Use the search feature to check for an existing issue
-* Include as much information as possible and provide any relevant resources (Eg. screenshots)
-* For bug reports ensure you have a reproducible test case
-    * A pull request with a breaking test would be super preferable here but isn't required
-
-## Versioning
-This project uses [semver](https://semver.org) for versioning. Current version: v2.0.0
-
-## Websites using Project Vibranium
-
-| Community Name | Location | Web App Link | 
-| --- | --- | --- | 
-| DSC Kisii University | Kenya | [Live Here](https://devclub-kisii.firebaseapp.com/) |
-| DSC Taita Taveta University | Kenya | [Live Here](https://dsc-at-ttu.firebaseapp.com/) |
-| DSC Bayero University Kano | Nigeria | [Live Here](https://dscbuk.club/) |
-| DSC Yabatech | Nigeria | [Live Here](https://dscyabatech.firebaseapp.com/) |
-| SemaPay | Kenya | [Live Here](https://semapay.co.ke/) |
-| DSC University of Nairobi | Kenya | [Live Here](https://dsc-uon.firebaseapp.com) |
-| DSC FUTA | Nigeria | [Live Here](https://dscfuta.com) |
-| DSC IBBUL | Nigeria | [Live Here](https://dscibbul.club) |
-| DSC Purdue University | Indiana, USA | [Live Here](https://dscpurdue.org/) |
-| DSC Univesity of Lagos| Nigeria | [Live Here](https://dscunilag.dev/)|
-| DSC Ekiti State University | Nigeria | [Live Here](https://dsceksu.herokuapp.com/)|
-| DSC Imo State University | Nigeria | [Live Here](https://dscimsu-69385.firebaseapp.com/)|
-| DSC Dominion University College, Accra | Ghana | [Live Here](https://dsc-duc.web.app/)|
-
-## License
-```
-Copyright (c) 2018 Project Vibranium 🔥
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
-
-
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkelvinkamau%2FVibranium.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkelvinkamau%2FVibranium?ref=badge_large)
