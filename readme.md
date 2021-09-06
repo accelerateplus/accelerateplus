@@ -2,17 +2,7 @@
 <img width="300" height="140" alt="accelerateplus" src="https://github.com/kelvinkamau/Vibranium/blob/master/src/images/vibranium.png">
 </p>
 
-# Project Vibranium 🔥
-This awesome Progressive Web App was created for Developer Student Clubs in Sub Saharan Africa as a profile and a platform to showcase what they're upto in events, outreach to local businesses and showcases and most importantly their success stories to the world.
-
-
-![](https://img.shields.io/badge/Built%20by-DSC%20Sub%20Saharan%20Africa-brightgreen.svg)
-[![Build Status](https://travis-ci.org/kelvinkamau/Vibranium.svg?branch=master)](https://travis-ci.org/kelvinkamau/Vibranium)
-![](https://img.shields.io/github/forks/kelvinkamau/Vibranium.svg?style=social)
-![](https://img.shields.io/github/issues/kelvinkamau/Vibranium.svg)
-![](https://img.shields.io/maintenance/yes/2019.svg)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/9ec27af46e31459f9c11a4c1f5ff6f71)](https://www.codacy.com/app/kamaucodes/Vibranium?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=kelvinkamau/Vibranium&amp;utm_campaign=Badge_Grade)
-
+# accelerateplus 🔥
 
 ## Usage 🛠
 * Fork repository and clone it locally
