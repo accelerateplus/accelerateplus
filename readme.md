@@ -1,7 +1,3 @@
-<p align="center">
-<img width="300" height="140" alt="accelerateplus" src="https://github.com/kelvinkamau/Vibranium/blob/master/src/images/vibranium.png">
-</p>
-
 # accelerateplus 🔥
 
 ## Usage 🛠
