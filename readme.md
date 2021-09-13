@@ -1,4 +1,4 @@
-# [WIP] accelerateplus 🔥
+# [WIP] abandoaned accelerateplus 🔥
 
 ## Usage 🛠
 * Fork repository and clone it locally
